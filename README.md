@@ -1,6 +1,6 @@
-# LeibaryProject_CoreApi
+# LibraryProject_CoreApi
 
-LeibaryProject_CoreApi is a .NET Core API designed for managing library operations. It provides endpoints for handling book information, user accounts, and borrowing records, ensuring efficient and secure library management.
+LibraryProject_CoreApi is a .NET Core API designed for managing library operations. It provides endpoints for handling book information, user accounts, and borrowing records, ensuring efficient and secure library management.
 
 # Features
 Book Management: Add, update, delete, and retrieve book details.
