@@ -1,8 +1,8 @@
-LeibaryProject_CoreApi
-Overview
+# LeibaryProject_CoreApi
+
 LeibaryProject_CoreApi is a .NET Core API designed for managing library operations. It provides endpoints for handling book information, user accounts, and borrowing records, ensuring efficient and secure library management.
 
-Features
+# Features
 Book Management: Add, update, delete, and retrieve book details.
 User Management: Handle user accounts and authentication.
 Borrowing Records: Track and manage borrowing transactions.
@@ -10,7 +10,7 @@ Prerequisites
 .NET SDK (version X.X or higher)
 Visual Studio or any compatible IDE
 SQL Server or another compatible database
-Getting Started
+# Getting Started
 Clone the Repository
 
 bash
@@ -35,7 +35,7 @@ Access the API
 
 Use an API client to interact with endpoints at http://localhost:5000.
 
-Usage
+# Usage
 Books: Manage and query book records.
 Users: Manage user profiles and authentication.
 Borrowing: Track and manage book borrowing activities.
